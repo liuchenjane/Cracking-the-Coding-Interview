@@ -1,5 +1,5 @@
-# Cracking-the-Coding-Interview
-程序员面试金典练习中
+#the-Coding-Interview
+面试题总结
 
 在[牛客网](https://www.nowcoder.com/ta/cracking-the-coding-interview)进行配套练习<br>
 

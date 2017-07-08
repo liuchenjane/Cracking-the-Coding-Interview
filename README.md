@@ -6,3 +6,4 @@
 |-------------|---------------------|
 |[另类加法](https://www.nowcoder.com/practice/e7e0d226f1e84ba7ab8b28efc6e1aebc?tpId=8&tqId=11065&tPage=4&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/blob/master/add.md)|
 |[2的个数](https://www.nowcoder.com/practice/31a9495eb02844fb8c0e9ab101053f53?tpId=8&tqId=11066&tPage=4&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/tree/master)|
+|[下一个较大的元素](https://www.nowcoder.com/practice/11ae41035eef4ed9b354d0752f5abc6f?tpId=8&tqId=11067&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/blob/master/findNext.md)|

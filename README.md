@@ -9,4 +9,5 @@
 |[下一个较大的元素](https://www.nowcoder.com/practice/11ae41035eef4ed9b354d0752f5abc6f?tpId=8&tqId=11067&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/blob/master/findNext.md)||
 |[下一个较大的元素II](https://www.nowcoder.com/practice/a0c19f3489774fe693d71490ce83b648?tpId=8&tqId=11068&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/blob/master/findNextII.md)||
 |[子串判断](https://www.nowcoder.com/practice/917a800d4de1423394827932f4725c68?tpId=8&tqId=11071&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/Cracking-the-Coding-Interview/blob/master/chkSubStr.md)|后缀树(Trie)|
+|[字符串变换](https://www.nowcoder.com/practice/4818ae796bbc4a85a8cdd8e155c06d46?tpId=8&tqId=11073&tPage=4&rp=4&ru=/ta/cracking-the-coding-interview&qru=/ta/cracking-the-coding-interview/question-ranking)|[code](https://github.com/liuchenjane/the-Coding-Interview/blob/master/countChanges.md)|图BFS|
 
